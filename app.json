@@ -7,9 +7,9 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Client",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Discovery_Updates",
+    "repository": "https://github.com/Godofh3ell/Forward-Client",
+    "website": "https://telegram.dog/tsnmstream4u",
+    "success_url": "https://t.me/TSNM_chnls",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
